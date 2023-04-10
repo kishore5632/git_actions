@@ -1,4 +1,4 @@
-namr: Hello world
+name: Hello world
 on:
   push:
     branches:
