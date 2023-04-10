@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-  name: Hello_world
+  name: Hello world
   runs-on: ubuntu-latest
   steps:
   - uses: actions/checkout@v2
